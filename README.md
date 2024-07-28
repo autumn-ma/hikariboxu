@@ -31,3 +31,6 @@ go run main.go <encoded_file> decode
 
 - [ ] Add buffer to save initial name and extension type
 - [ ] Add integration to yt, fb, ... to upload and download vid
+
+
+![image](https://github.com/user-attachments/assets/c4c39816-71de-41fa-9e94-d7d3c9d97f81)
